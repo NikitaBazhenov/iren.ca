@@ -1,0 +1,17 @@
+@include keyframes(heart)
+  0%
+    @include transform(scale(0.5))
+    opacity: 0
+  41%
+    @include transform(scale(1.4))
+    opacity: 1
+  47%
+    @include transform(scale(1))
+  53%
+    @include transform(scale(1.4))
+  59%
+    @include transform(scale(1))
+    opacity: 1
+  100%
+    @include transform(rotate(1.5))
+    opacity: 0

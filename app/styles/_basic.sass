@@ -1,0 +1,38 @@
+html
+  font-family: sans-serif
+  -ms-text-size-adjust: 100%
+  -webkit-text-size-adjust: 100%
+a
+  background: transparent
+  &:active,
+  &:hover
+    outline: 0
+body
+  background: #F7EEE9
+body,
+#wrap,
+#gradient
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-position: center top
+  background-size: cover
+  overflow: hidden
+  position: absolute
+  top: 0
+  left: 0
+  bottom: 0
+  right: 0
+  margin: 0
+#wrap
+  background-image: url(../images/bg.jpg)
+  font-family: 'Raleway', sans-serif
+  font-weight: 100
+  color: rgba(0,0,0,0.7)
+  margin: 0
+  @include transition(opacity 0.3s ease-in-out 0s)
+  opacity: 1
+  &.hide-wrap
+    opacity: 0
+#gradient
+  background-image: url(../images/gr.png)
+  z-index: 5

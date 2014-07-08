@@ -1,0 +1,9 @@
+{
+    "name": "irena",
+    "private": true,
+    "dependencies": {
+        "parallax": "1.0.0",
+        "bourbon": "3.1.8"
+    },
+    "devDependencies": {}
+}

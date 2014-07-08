@@ -1,0 +1,61 @@
+#links-wrap
+  position: absolute
+  width: 100%
+  height: $linkW
+  z-index: 6
+#links
+  list-style: none
+  width: $linkWrapW
+  padding: 0
+  position: relative
+  margin: 10px auto 0
+  &.hide-links .link
+    top: -60px
+.link a,
+.hov
+  background: url(../images/icons.png) no-repeat
+  display: block
+  width: $linkW
+  height: $linkW
+.link
+  float: left
+  padding: 0 $linkP
+  position: relative
+  top: 0
+  @include transition(top 0.5s cubic-bezier(0.000, 1.555, 0.730, 1.650))
+  a
+    outline: none
+    text-decoration: none
+  &:nth-child(1) a
+    background-position: 0px -160px
+    .hov
+      background-position: 0 100%
+  &:nth-child(2)
+    @include transition-delay(0.1s)
+    a
+      background-position: -50px -160px
+      .hov
+        background-position: -50px 100%
+  &:nth-child(3)
+    @include transition-delay(0.2s)
+    a
+      background-position: -100px -160px
+      .hov
+        background-position: -100px 100%
+  &:nth-child(4)
+    @include transition-delay(0.1s)
+    a
+      background-position: -150px -160px
+      .hov
+        background-position: -150px 100%
+  &:nth-child(5) a
+    background-position: -200px -160px
+    .hov
+      background-position: -200px 100%
+.hov
+  opacity: 0
+  @include transform(scale(1.1) translateX(10px) translateY(-10px) rotate(4deg))
+  @include transition(all 0.5s ease-in-out 0s)
+.link a:hover > .hov
+  opacity: 1
+  @include transform(scale(1) translateX(0px) translateY(0px) rotate(0deg))

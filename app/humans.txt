@@ -1,0 +1,37 @@
+/* TEAM */
+	Name: Nikita Bazhenov
+	Role: Front-end Developer
+	Site: http://nikitabazhenov.com/
+	Contact: bazhenov.n@gmail.com
+    Twitter: https://twitter.com/NikitaBazhenov
+	Facebook: https://www.facebook.com/nikita.bazhenov.75
+
+	Name: Irena Taran
+	Role: Web Designer
+	Site: http://iren.ca/
+	Contact: taran.irena@gmail.com
+	Twitter: https://twitter.com/IrenaTaran
+	Facebook: https://www.facebook.com/irena.taran
+
+/* SITE */
+	URL: http://iren.ca/
+
+/* STANDARDS */
+	HTML5: http://w3.org/TR/html5/
+	CSS3: http://w3.org/TR/CSS/#css3
+
+/* LANGUAGES */
+	HTML
+	Sass
+	CSS
+	JavaScript
+
+/* COMPONENTS */
+    Grunt: http://gruntjs.com/
+    Bower: http://bower.io/
+    Parallax: http://wagerfield.github.io/parallax/
+    Compass: http://compass-style.org
+    Bourbon: http://bourbon.io/
+
+/* SERVICES */
+	Google Web Fonts: http://google.com/fonts/
