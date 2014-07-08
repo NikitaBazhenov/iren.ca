@@ -1,5 +1,4 @@
 # [iren.ca](http://www.iren.ca)
-***
 
 ## Overview
 
