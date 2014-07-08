@@ -1,5 +1,5 @@
 # [iren.ca](http://www.iren.ca)
-***git
+***
 
 ## Overview
 
@@ -7,15 +7,15 @@ Project files for [iren.ca](http://www.iren.ca)
 
 ### Tools
 
-[![Yeoman](http://iren.ca/images/libs/yo.jpg)](http://yeoman.io/) 
-[![Grunt](http://iren.ca/images/libs/grunt.jpg)](http://gruntjs.com/)
-[![Bower](http://iren.ca/images/libs/bower.jpg)](http://bower.io/)
-[![SASS + Compass](file:///Users/nikitabazhenov/Desktop/1/sass.jpg)](http://compass-style.org)
+[![Yeoman](http://dev.iren.ca/images/yo.jpg)](http://yeoman.io/) 
+[![Grunt](http://dev.iren.ca/images/grunt.jpg)](http://gruntjs.com/)
+[![Bower](http://dev.iren.ca/images/bower.jpg)](http://bower.io/)
+[![SASS + Compass](http://dev.iren.ca/images/sass.jpg)](http://compass-style.org)
 
 ### Libraries
 
-[![Parallax](http://iren.ca/images/libs/parallax.jpg)](http://wagerfield.github.io/parallax/) 
-[![Bourbon](http://iren.ca/images/libs/bourbon.jpg)](http://bourbon.io/)
+[![Parallax](http://dev.iren.ca/images/parallax.jpg)](http://wagerfield.github.io/parallax/) 
+[![Bourbon](http://dev.iren.ca/images/bourbon.jpg)](http://bourbon.io/)
 
 ##Instructions
 
