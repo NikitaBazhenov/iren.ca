@@ -1,20 +1,20 @@
-# [iren.ca](http://www.iren.ca)
+# [irenchik.com](http://www.irenchik.com)
 
 ## Overview
 
-Project files for [iren.ca](http://www.iren.ca)
+Project files for [irenchik.com](http://www.irenchik.com)
 
 ### Tools
 
-[![Yeoman](http://dev.iren.ca/images/yo.jpg)](http://yeoman.io/) 
-[![Grunt](http://dev.iren.ca/images/grunt.jpg)](http://gruntjs.com/)
-[![Bower](http://dev.iren.ca/images/bower.jpg)](http://bower.io/)
-[![SASS + Compass](http://dev.iren.ca/images/sass.jpg)](http://compass-style.org)
+[![Yeoman](http://images.irenchik.com/assets/yo.jpg)](http://yeoman.io/) 
+[![Grunt](http://images.irenchik.com/assets/grunt.jpg)](http://gruntjs.com/)
+[![Bower](http://images.irenchik.com/assets/bower.jpg)](http://bower.io/)
+[![SASS + Compass](http://images.irenchik.com/assets/sass.jpg)](http://compass-style.org)
 
 ### Libraries
 
-[![Parallax](http://dev.iren.ca/images/parallax.jpg)](http://wagerfield.github.io/parallax/) 
-[![Bourbon](http://dev.iren.ca/images/bourbon.jpg)](http://bourbon.io/)
+[![Parallax](http://images.irenchik.com/assets/parallax.jpg)](http://wagerfield.github.io/parallax/) 
+[![Bourbon](http://images.irenchik.com/assets/bourbon.jpg)](http://bourbon.io/)
 
 ##Instructions
 

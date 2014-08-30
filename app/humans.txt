@@ -8,13 +8,13 @@
 
 	Name: Irena Taran
 	Role: Web Designer
-	Site: http://iren.ca/
+	Site: http://irenchik.com/
 	Contact: taran.irena@gmail.com
 	Twitter: https://twitter.com/IrenaTaran
 	Facebook: https://www.facebook.com/irena.taran
 
 /* SITE */
-	URL: http://iren.ca/
+	URL: http://irenchik.com/
 
 /* STANDARDS */
 	HTML5: http://w3.org/TR/html5/

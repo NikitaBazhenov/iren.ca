@@ -151,9 +151,9 @@ module.exports = function (grunt) {
         'ftp-deploy': {
             build: {
                 auth: {
-                    host: 'ftp.iren.ca',
+                    host: 'ftp.irenchik.com',
                     port: 21,
-                    authKey: 'irenca'
+                    authKey: 'irenchik'
                 },
                 src: '<%= yeoman.dist %>',
                 dest: '/'
